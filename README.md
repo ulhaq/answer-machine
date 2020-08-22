@@ -6,7 +6,7 @@
 ## Question without answer
 ![Question without answer](q-without-a.png)
 
-## Question wit answer
+## Question with answer
 ![Question wit answer](qa.png)
 
 ## Help Screen
