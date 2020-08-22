@@ -1,0 +1,26 @@
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\bin\Debug\Answer Machine.exe
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\bin\Debug\Answer Machine.pdb
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\bin\Debug\Answer Machine.xml
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\Answer_Machine.Form1.resources
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\Answer_Machine.Resources.resources
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\Answer Machine.exe
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\Answer Machine.xml
+C:\Users\Worker\AppData\Local\Temporary Projects\Answer Machine\obj\x86\Debug\Answer Machine.pdb
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\Answer Machine.exe
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\Answer Machine.xml
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\Answer Machine.pdb
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\bin\Debug\Answer Machine.exe.manifest
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\bin\Debug\Answer Machine.application
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\bin\Debug\Answer Machine.exe
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\bin\Debug\Answer Machine.pdb
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\bin\Debug\Answer Machine.xml
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\Answer_Machine.Form1.resources
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\Answer_Machine.Resources.resources
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\Answer Machine.exe.manifest
+C:\Users\Worker\desktop\Answer Machine\Answer Machine\obj\x86\Debug\Answer Machine.application
